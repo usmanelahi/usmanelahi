@@ -6,7 +6,7 @@
 
 <div style="line-height: 1.15">
     <b>🚀 Eastman Enterprises </b>
-    <p>Web And Mobile App Developer</p>
+    <p>Software Engineer(Mobile & Web App)</p>
 </div>
 
 ## Past Experiences:
