@@ -1,15 +1,17 @@
-<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/m-usman-elahi/">Usman </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+<a href="https://github.com/usmanelahi"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=usmanelahi&style=flat-square" width="125"/></a>
 
-#### I am a computer science student from Pakistan. I am interested in working on creative and unique ideas.
+<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/m-usman-elahi/">Usman</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
-## What am I doing?
+#### I'm a computer science student and an independent software developer based in Pakistan. I like to work on creative projects that can improve civic accountability and public policymaking through technology.
+
+## 🧑🏽‍💻 What am I doing?
 
 <div style="line-height: 1.15">
-    <b>🚀 Eastman Enterprises </b>
-    <p>Software Engineer(Mobile & Web App)</p>
+    <b>🔒 Eastman Enterprises</b>
+    <p>Software Engineer</p>
 </div>
 
-## Past Experiences:
+## 🕰 What have I done?
 
 <div style="line-height: 1.15">
     <b>🚀 Divize</b>
@@ -21,16 +23,9 @@
     <p>Machine Learning Intern</p>
 </div>
 
-## Education:
-
-<div style="line-height: 1.15">
-    <b>📚 National University of Computer and Emerging Sciences</b>
-    <p>BS (Computer Science)</p>
-</div>
-
 ## 💻 Technical Skills
 
-- Web and Mobile Application Development.
+- Web, Mobile, and Desktop Application Development.
 
 - AI/ML Model Development.
 
