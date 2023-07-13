@@ -2,7 +2,7 @@
 
 <h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/m-usman-elahi/">Usman</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
-#### I'm a computer science student and an independent software developer based in Pakistan. 
+#### I'm a computer science graduate and an independent software developer based in Pakistan. 
 
 ## 🧑🏽‍💻 What am I doing?
 
