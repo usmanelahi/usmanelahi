@@ -2,7 +2,7 @@
 
 <h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/m-usman-elahi/">Usman</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
-#### I'm a computer science graduate and an independent software developer based in Pakistan. 
+#### I'm a computer science student and an independent software developer based in Pakistan. 
 
 ## 🧑🏽‍💻 What am I doing?
 
@@ -10,6 +10,14 @@
     <b>🔒 Eastman Enterprises</b>
     <p>Software Engineer</p>
 </div>
+
+## 📘 Where am I studying?
+
+<div style="line-height: 1.15">
+    <b>📚 National University of Computer and Emerging Sciences</b>
+    <p>BS (Computer Science)</p>
+</div>
+
 
 ## 🕰 What have I done?
 
@@ -19,7 +27,13 @@
 </div>
 
 <div style="line-height: 1.15">
-    <b>🚀 MilestoneZero</b>
+    <b>👨‍🏫  Fiverr & UpWork</b>
+    <p>Freelance Software Engineer</p>
+</div>
+
+
+<div style="line-height: 1.15">
+    <b>🔬 MilestoneZero</b>
     <p>Machine Learning Intern</p>
 </div>
 
