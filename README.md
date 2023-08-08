@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmanelahi" alt="usmanelahi" /></a> </p>
 
 - 🔭 I’m currently working as a full time **Software Engineer**, where i build interactive and scalable mobile as well as web apps.
+- 👨‍💻 I am currently learning **AWS**, **Typescript** and **Backend Development**.
 - 📫 How to reach me **usmanelahi0201@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
