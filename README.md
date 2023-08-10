@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a full time **Software Engineer**, where i build interactive and scalable mobile as well as web apps.
 - 👨‍💻 I am currently learning **AWS** and **Kubernetes**.
-- 📫 How to reach me **usmanelahi0201@gmail.com**
+- 📫 How to reach me: **usmanelahi0201@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
