@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmanelahi" alt="usmanelahi" /></a> </p>
 
-- 🔭 I’m currently working as a **Software Engineer (Web, Mobile)**
+- 🔭 I’m currently working on **React Native, React JS, Redux JS, REST APIs, GraphQL, TypeScript.**
 
-- 🌱 I’m currently learning **CI/CD Pipelines Management & Web Services**
+- 🌱 I’m currently learning **CI/CD Pipelines Management & Web Services.**
 
 - 💬 Ask me about **React Native, React JS, Frontend Development, App Deployment, Software Development Cycle**
 
