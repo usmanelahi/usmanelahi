@@ -5,18 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmanelahi" alt="usmanelahi" /></a> </p>
 
-- 🔭 I’m currently working on **React Native, React JS, Redux JS, REST APIs, GraphQL, TypeScript, MySQL, PostgreSQL, Node JS, Git, GitHub.**
+- 🔭 I’m currently working on **React Native, React JS, Redux JS, REST APIs, GraphQL, TypeScript, MySQL, PostgreSQL, Node JS, Git & GitLab.**
 
-- 🌱 I’m currently learning **Backend Development & Web Services.**
+- 🌱 I’m currently learning **Backend Development, Web Services & App Deployment.**
 
-- 💬 Ask me about **React Native, React JS, Frontend Development, App Deployment, Software Development Cycle**
+- 💬 Ask me about **React Native, React JS, Frontend Development & Software Development Cycle**
 
 - 📫 How to reach me **usmanelahi0201@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/m-usman-elahi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-usman-elahi/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13326891/m-usman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13326891/m-usman" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13326891/m-usman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13326891/m-usman" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
