@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working as a **Software Engineer (Web, Mobile)**
 
-- 🌱 I’m currently learning **CI/CD Pipelines Management, Web Services**
-
-- 💬 Ask me about **react native, react js, software development cycle**
+- 💬 Ask me about **react native, react js, software development cycle & Server Side Development**
 
 - 📫 How to reach me **usmanelahi0201@gmail.com**
 
