@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a **Software Engineer (Web, Mobile).**
   
-- 👨‍💻 I’m currently working on **React Native, React JS, Typescript, Javascript, Node JS, Restful APIs, GraphQL.**
+- 👨‍💻 I’m currently working on **React Native, React JS, Typescript, Javascript, Node JS, Restful APIs, GraphQL, Python and PoestgreSQL**
 
 - 💬 Ask me about **React Native, React JS, Software Development Cycle & Server Side Development.**
 
