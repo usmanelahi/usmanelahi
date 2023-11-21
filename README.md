@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React Native, React JS, Software Development Cycle & Server Side Development.**
 
-- 📫 How to reach me **usmanelahi0201@gmail.com**
+- 📫 How to reach me: **usmanelahi0201@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
